@@ -38,7 +38,7 @@ In the User Settings inside, set and modify the creator's name.
 
 ![name config](https://github.com/zhaopengme/vscode-fileheader/raw/master/name.jpg)
 
-## hot key 热键
+## Hotkey 热键
 
 `ctrl+alt+i` You can insert comments in the head. 插入信息到文件头部
 
@@ -46,6 +46,6 @@ In the User Settings inside, set and modify the creator's name.
 
 ### 1.0.0
 
-1. Support hotkey insert header comments 支持热键插入
-2. Support Save file, automatically update the time 支持保存文件自动更新时间
-3. Support the configuration and update the creator's name 支持设置更新人名字
+1. Support hotkey insert header comments 支持快捷键插入
+2. Support Save file, automatically update the time 支持保存文件时自动更新时间
+3. Support the configuration and update the creator's name 支持配置更新人和创建者名字
