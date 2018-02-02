@@ -25,7 +25,25 @@ eg:
 
 ## install 安装
 
-Press `F1` or `Ctrl + Shift + P`, type`ext install fileheader`.
+Open Visual Studio Code
+
+Press `Ctrl+P` or `F1` to open the Quick Open dialog
+
+Type `ext install vscode-file-header` to find the extension
+
+Click the `Install` button, then the `Enable` button
+
+&nbsp;
+
+OR
+
+&nbsp;
+
+Press `Ctrl+Shift+X` to open the Extensions tab
+
+Type `vscode-file-header` to find the extension
+
+Click the `Install` button, then the `Enable` button
 
 ## Configuration 配置
 
